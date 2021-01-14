@@ -6,7 +6,7 @@ package_data = {"": ["*"]}
 
 setup_kwargs = {
     "name": "test-package",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "",
     "long_description": None,
     "author": "alexander.slavutin",
